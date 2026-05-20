@@ -1,4 +1,4 @@
-Observed Reentry Date (UTC),Object Name,International Designator,SSN,TLE Epoch (UTC),Aerospace Reentry Prediction (UTC),Aerospace Stated Uncertainty 20% Rule (+/- hrs),Country of Origin,Type,Sighting Location,Sighting Latitude,Sighting Longitude,Debris Recovery Location,Recovery Latitude,Recovery Longitude
+Observed Reentry Date (UTC),Object Name,International Designator,SSN,TLE Epoch (UTC),Aerospace Reentry Prediction (UTC),Aerospace Stated Uncertainty 20% Rule (+/- hrs),Country of Origin,Type,Sighting Location,Sighting Latitude,Sighting Longitude,Debris Recovery Location,Latitude,Longitude
 N/A,STARLINK-1457,2020-035T,45674,2026-05-19T03:58:01.316064Z,2026-05-22T00:31:06.560000Z,14.0,UNITED STATES OF AMERICA,Payload,,,,,,
 N/A,STARLINK-3096,2021-082B,49131,2026-05-19T10:59:34.117728Z,2026-05-20T10:29:08.100000Z,5.0,UNITED STATES OF AMERICA,Payload,,,,,,
 N/A,STARLINK-34671,2025-161U,65033,2026-05-18T23:35:30.871680Z,2026-05-19T11:45:48.760000Z,3.0,UNITED STATES OF AMERICA,Payload,,,,,,
